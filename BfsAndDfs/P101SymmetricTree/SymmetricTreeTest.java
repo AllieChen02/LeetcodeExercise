@@ -1,4 +1,4 @@
-package BFS.P101SymmetricTree;
+package BfsAndDfs.P101SymmetricTree;
 import junit.framework.TestCase;
 
 public class SymmetricTreeTest extends TestCase{

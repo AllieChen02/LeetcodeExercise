@@ -1,4 +1,4 @@
-package BFS.P111MinimumDepthOfBinaryTree;
+package BfsAndDfs.P111MinimumDepthOfBinaryTree;
 
 import java.util.LinkedList;
 import java.util.Queue;

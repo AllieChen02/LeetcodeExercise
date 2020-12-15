@@ -1,4 +1,4 @@
-package BFS.P111MinimumDepthOfBinaryTree;
+package BfsAndDfs.P111MinimumDepthOfBinaryTree;
 import junit.framework.TestCase;
 
 public class MinimumDepthOfBinaryTreeTest extends TestCase {

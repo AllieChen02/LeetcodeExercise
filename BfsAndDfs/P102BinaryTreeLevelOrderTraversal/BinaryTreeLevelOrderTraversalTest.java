@@ -1,4 +1,4 @@
-package BFS.P102BinaryTreeLevelOrderTraversal;
+package BfsAndDfs.P102BinaryTreeLevelOrderTraversal;
 import java.util.*;
 import java.util.stream.Collectors;
 import junit.framework.TestCase;

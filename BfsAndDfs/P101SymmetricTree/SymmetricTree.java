@@ -1,4 +1,4 @@
-package BFS.P101SymmetricTree;
+package BfsAndDfs.P101SymmetricTree;
 import java.util.LinkedList;
 import java.util.Queue;
 
