@@ -1,6 +1,6 @@
 # Leetcode Record
 
-## Breath First Search
+## Breath First Search / Depth First Search
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 101 | [Symmetric Tree](/BfsAndDfs/P101SymmetricTree) | BFS/DFS | Easy | Java, Python, JavaScript
@@ -18,5 +18,10 @@ ID | Title | Category | Difficulty | Language |
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 3 | [Longest Substring Without Repeating Characters](/TwoPointers/P3LongestSubstringWithoutRepeatingCharacters) | Two Pointers | Medium | Java, Python
+61 | [Rotate List](/TwoPointers/P61RotateList) | Two Pointers | Medium | Java, Python
 209 | [Minimum Size Subarray Sum](/TwoPointers/P209MinimumSizeSubarraySum) | Two Pointers | Medium | Java, Python, JavaScript
+845 | [Longest Mountain In Array](/TwoPointers/P845LongestMountainInArray) | Two Pointers | Medium | Java, Python
+881 | [Boats To Save People](/TwoPointers/P881BoatsToSavePeople) | Two Pointers | Medium | Python, JavaScript
+930 | [Binary Subarrays With Sum](/TwoPointers/P930BinarySubarraysWithSum) | Two Pointers | Medium | Java, Python
 1004 | [Max Consecutive Ones III](/TwoPointers/P1004MaxConsecutiveOnesIII) | Two Pointers | Medium | Java, Python
+1570 | [Dot Product of Two Sparse Vectors](/TwoPointers/P1570DotProductOfTwoSparseVectors) | Two Pointers | Medium | Java, Python
