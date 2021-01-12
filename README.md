@@ -45,7 +45,15 @@ ID | Title | Category | Difficulty | Language |
 1448 | [Count Good Nodes In Binary Tree](/Tree/P1448CountGoodNodesInBinaryTree) | Tree | Medium | Java, Python
 
 
+&nbsp;
 
+## Stack
+ID | Title | Category | Difficulty | Language |
+-|-|-|-|-
+84 | [Largest Rectangle Histogram](/Stack/P84LargestRectangleHistogram) | Stack | Hard | Python
+85 | [Maximal Rectangle](/Stack/P85MaximalRectangle) | Stack | Hard | Python
+946 | [Validate Stack Sequences](/Stack/P946ValidateStackSequences) | Stack | Medium | Python
+1249 | [Minimum Remove to Make Valid Parentheses](/Stack/P1249MinimumRemoveToMakeValidParentheses) | Stack | Medium | Java, Python
 
 &nbsp;
 
@@ -54,4 +62,4 @@ ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 32 | [Longest Valid Parentheses](/DP/P32LongestValidParentheses) | DP | Hard | Python
 62 | [Unique Paths](/DP/P62UniquePaths) | DP | Medium | Java, Python
-62 | [Unique PathsII](/DP/P63UniquePathsII) | DP | Medium | Java
+63 | [Unique PathsII](/DP/P63UniquePathsII) | DP | Medium | Java
