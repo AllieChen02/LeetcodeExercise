@@ -35,6 +35,8 @@ ID | Title | Category | Difficulty | Language |
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 96 | [Unique Binary Search Trees](/Tree/P96UniqueBinarySearchTrees) | Tree | Medium | Java, Python, Js
+103 | [Binary Tree Zigzag Level Order Traversal](/Tree/P103BinaryTreeZigzagLevelOrderTraversal) | Tree | Medium | Java, Python
+144 | [Binary Tree Preorder Traversal](/Tree/P144BinaryTreePreorderTraversal) | Tree | Medium | Python
 297 | [Serialize And Deserialize Binary Tree](/Tree/P297SerializeAndDeserializeBinaryTree) | Tree | Hard | Java, Python
 437 | [Path Sum III](/Tree/P437PathSumIII) | Tree | Medium | Java, Python
 450 | [Delete Node In A BST](/Tree/P450DeleteNodeInABST) | Tree | Medium | Java
@@ -52,8 +54,12 @@ ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 84 | [Largest Rectangle Histogram](/Stack/P84LargestRectangleHistogram) | Stack | Hard | Python
 85 | [Maximal Rectangle](/Stack/P85MaximalRectangle) | Stack | Hard | Python
+144 | [Binary Tree Preorder Traversal](/Tree/P144BinaryTreePreorderTraversal) | Tree | Medium | Python
+224 | [Basic Calculator](/Stack/P224BasicCalculator) | Stack | Hard | Java, Python
+227 | [Basic Calculator II](/Stack/P224BasicCalculatorII) | Stack | Hard |  Python
 946 | [Validate Stack Sequences](/Stack/P946ValidateStackSequences) | Stack | Medium | Python
-1249 | [Minimum Remove to Make Valid Parentheses](/Stack/P1249MinimumRemoveToMakeValidParentheses) | Stack | Medium | Java, Python
+1063 | [Number of Valid Subarrays](/Stack/P1063NumberOfValidSubarrays) | Stack | Medium | Java, Python
+1249 | [Minimum Remove to Make Valid Parentheses](/Stack/P1249MinimumRemoveToMakeValidParentheses) | Stack | Medium | Python
 
 &nbsp;
 
