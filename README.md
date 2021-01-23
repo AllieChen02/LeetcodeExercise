@@ -7,6 +7,7 @@ ID | Title | Category | Difficulty | Language |
 102 | [Binary Tree Level Order Traversal](/BfsAndDfs/P102BinaryTreeLevelOrderTraversal) | BFS | Medium | Java, Python, Js
 111 | [Minimum Depth of Binary Tree](/BfsAndDfs/P111MinimumDepthOfBinaryTree) | BFS/DFS | Easy | Java, Python, Js
 127 | [WordLadder](/BfsAndDfs/P127WordLadder) | BFS/DFS | Medium | Java, Python
+494 | [Target Sum](/BfsAndDfs/P494TargetSum) | DFS | Medium | Java
 863 | [All Nodes Distance K In Binary Tree](/BfsAndDfs/P863AllNodesDistanceKInBinaryTree) | BFS | Medium | Java, Python
 1161 |[Maximum Level Sum of a Binary Tree](/BfsAndDfs/P1161MaximumLevelSumOfABinaryTree) | BFS/DFS | Medium | Java, Python, Js
 1293 | [Shortest Path in a Grid with Obstacles Elimination](/BfsAndDfs/P1293ShortestPathInAGridWithObstaclesElimination) | BFS | Hard | Java, Python
@@ -57,9 +58,22 @@ ID | Title | Category | Difficulty | Language |
 144 | [Binary Tree Preorder Traversal](/Tree/P144BinaryTreePreorderTraversal) | Tree | Medium | Python
 224 | [Basic Calculator](/Stack/P224BasicCalculator) | Stack | Hard | Java, Python
 227 | [Basic Calculator II](/Stack/P224BasicCalculatorII) | Stack | Hard |  Python
+316 | [Remove Duplicate Letters](/Stack/P316RemoveDuplicateLetters) | Stack | Medium | Java, Python
 946 | [Validate Stack Sequences](/Stack/P946ValidateStackSequences) | Stack | Medium | Python
 1063 | [Number of Valid Subarrays](/Stack/P1063NumberOfValidSubarrays) | Stack | Medium | Java, Python
 1249 | [Minimum Remove to Make Valid Parentheses](/Stack/P1249MinimumRemoveToMakeValidParentheses) | Stack | Medium | Python
+
+
+&nbsp;
+
+## Heap
+ID | Title | Category | Difficulty | Language |
+-|-|-|-|-
+23 | [MergeKSortedLists](/Heap/P23MergeKSortedLists) | Heap | Hard | Java, Python
+264 | [Ugly Number II](/Heap/P264UglyNumberII) | Heap | Medium | Python
+239 | [Sliding Window Maximum](/Heap/P239SlidingWindowMaximum) | Heap | Medium | Java, Python
+1439 | [Find The Kth Smallest Sum of a Matrix With Sort](/Heap/P1439FindTheKthSmallestSumofAMatrixWithSort) | Heap | Hard | Java
+
 
 &nbsp;
 
