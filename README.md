@@ -1,18 +1,36 @@
 # Leetcode Record
 
-## Breath First Search / Depth First Search
+## Breadth First Search / Depth First Search
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 101 | [Symmetric Tree](/BfsAndDfs/P101SymmetricTree) | BFS/DFS | Easy | Java, Python, Js
 102 | [Binary Tree Level Order Traversal](/BfsAndDfs/P102BinaryTreeLevelOrderTraversal) | BFS | Medium | Java, Python, Js
 111 | [Minimum Depth of Binary Tree](/BfsAndDfs/P111MinimumDepthOfBinaryTree) | BFS/DFS | Easy | Java, Python, Js
-127 | [WordLadder](/BfsAndDfs/P127WordLadder) | BFS/DFS | Medium | Java, Python
+127 | [Word Ladder](/BfsAndDfs/P127WordLadder) | BFS/DFS | Medium | Java, Python
+131 | [Palindrome Partitioning](/BfsAndDfs/P131PalindromePartitioning) | DFS | Medium | Python
+323 | [Number Of Connected Components In An Undirected Graph](/BfsAndDfs/P323NumberOfConnectedComponentsInAnUndirectedGraph) | DFS | Medium | Python
 494 | [Target Sum](/BfsAndDfs/P494TargetSum) | DFS | Medium | Java
+505 | [The Maze II](/BfsAndDfs/P505TheMazeII) | BFS | Medium | Java
+743 | [Network Delay Time](/BfsAndDfs/P743NetworkDelayTime) | DFS | Medium | Java, Python
 863 | [All Nodes Distance K In Binary Tree](/BfsAndDfs/P863AllNodesDistanceKInBinaryTree) | BFS | Medium | Java, Python
 1161 |[Maximum Level Sum of a Binary Tree](/BfsAndDfs/P1161MaximumLevelSumOfABinaryTree) | BFS/DFS | Medium | Java, Python, Js
 1293 | [Shortest Path in a Grid with Obstacles Elimination](/BfsAndDfs/P1293ShortestPathInAGridWithObstaclesElimination) | BFS | Hard | Java, Python
+1376 | [Time Needed To Inform All Employees](/BfsAndDfs/P1376TimeNeededToInformAllEmployees) | BFS/DFS | Medium | Java
 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](/BfsAndDfs/ReorderRoutesToMakeAllPathsLeadToTheCityZero) | Tree | Medium | Python
 1490 | [Clone N-ary Tree](/BfsAndDfs/P1490CloneNAryTree) | BFS/DFS | Medium | Java, Python
+
+
+&nbsp;
+
+## Graph
+ID | Title | Category | Difficulty | Language |
+-|-|-|-|-
+269 | [Alien Dictionary](/Graph/P269AlienDictionary) | Graph | Hard | Java, Python
+310 | [Minimum Height Trees](/Graph/P310MinimumHeightTrees) | Graph | Medium | Java
+684 | [Redundant Connection](/Graph/P684RedundantConnection) | Graph | Medium | Java
+1162 | [As Far From Land As Possible](/Graph/P1162AsFarFromLandAsPossible) | Graph | Medium | Java
+1334 | [Find The City With The Smallest Number of Neighbors at a Threshold Distance](/Graph/P1334FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance) | Graph | Medium | Java
+1730 | [Shortest Path To Get Food](/Graph/P1730ShortestPathToGetFood) | Graph | Medium | Java
 
 &nbsp;
 
