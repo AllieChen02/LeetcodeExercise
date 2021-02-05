@@ -1,5 +1,24 @@
 # Leetcode Record
 
+## String
+ID | Title | Category | Difficulty | Language |
+-|-|-|-|-
+5 | [Longest Palindromic Substring](/String/P5LongestPalindromicSubstring) | String | Medium | Python, Js
+14 | [Longest Common Prefix](/String/P14LongestCommonPrefix) | String | Medium | Python, Js
+17 | [Letter Combinations of a Phone Number](/String/P17LetterCombinationsOfAPhoneNumber) | String | Medium | Python, Js
+20 | [Valid Parentheses](/String/P20ValidParentheses) | String | Easy | Python, Js
+22 | [Generate Parentheses](/String/P22GenerateParentheses) | String | Medium | Python, Js
+32 | [Longest Valid Parentheses](/String/P32LongestValidParentheses) | String | Hard | Python
+38 | [Count And Say](/String/P38CountAndSay) | String | Easy | Python, Js
+44 | [Wildcard Matching](/String/P44WildcardMatching) | String | Hard | Java, Python
+49 | [Group Anagrams](/String/P49GroupAnagrams) | String | Medium | Java, Python
+58 | [Length of Last Word](/String/P58LengthOfLastWord) | String | Medium | Python
+1653 | [Minimum Deletions To Make String Balanced](/String/P1653MinimumDeletionsToMakeStringBalanced) | String | Medium | Java
+
+
+&nbsp;
+
+
 ## Breadth First Search / Depth First Search
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
@@ -25,11 +44,15 @@ ID | Title | Category | Difficulty | Language |
 ## Graph
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
+207 | [CourseSchedule](/Graph/P207CourseSchedule) | Graph | Medium | Java
+210 | [CourseSchedule](/Graph/P210CourseScheduleII) | Graph | Medium | Java
 269 | [Alien Dictionary](/Graph/P269AlienDictionary) | Graph | Hard | Java, Python
 310 | [Minimum Height Trees](/Graph/P310MinimumHeightTrees) | Graph | Medium | Java
 684 | [Redundant Connection](/Graph/P684RedundantConnection) | Graph | Medium | Java
 1162 | [As Far From Land As Possible](/Graph/P1162AsFarFromLandAsPossible) | Graph | Medium | Java
+1267 | [Count Servers That Communicate](/Graph/P1267CountServersThatCommunicate) | Graph | Medium | Java, Python
 1334 | [Find The City With The Smallest Number of Neighbors at a Threshold Distance](/Graph/P1334FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance) | Graph | Medium | Java
+1631 | [Path With Minimum Effort](/Graph/PathWithMinimumEffort) | Graph | Medium | Java
 1730 | [Shortest Path To Get Food](/Graph/P1730ShortestPathToGetFood) | Graph | Medium | Java
 
 &nbsp;
@@ -98,6 +121,5 @@ ID | Title | Category | Difficulty | Language |
 ## Dynamic Programming
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
-32 | [Longest Valid Parentheses](/DP/P32LongestValidParentheses) | DP | Hard | Python
 62 | [Unique Paths](/DP/P62UniquePaths) | DP | Medium | Java, Python
 63 | [Unique PathsII](/DP/P63UniquePathsII) | DP | Medium | Java
