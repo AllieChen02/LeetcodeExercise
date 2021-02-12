@@ -13,8 +13,11 @@ ID | Title | Category | Difficulty | Language |
 44 | [Wildcard Matching](/String/P44WildcardMatching) | String | Hard | Java, Python
 49 | [Group Anagrams](/String/P49GroupAnagrams) | String | Medium | Java, Python
 58 | [Length of Last Word](/String/P58LengthOfLastWord) | String | Medium | Python
+536 | [Construct Binary Tree from String](/String/P536ConstructBinaryTreeFromString) | String | Medium | Java
+539 | [Minimum Time Difference](/String/P539MinimumTimeDifference) | String | Medium | Java, Python
+1264 | [Largest Substring Between Two Equal Characters](/String/P1264LargestSubstringBetweenTwoEqualCharacters) | String | Medium | Java, Python
 1653 | [Minimum Deletions To Make String Balanced](/String/P1653MinimumDeletionsToMakeStringBalanced) | String | Medium | Java
-
+1698 | [Number Of Distinct Substrings In a String](/String/P1698NumberOfDistinctSubstringsInAString) | String | Easy | Java, Python
 
 &nbsp;
 
@@ -50,9 +53,11 @@ ID | Title | Category | Difficulty | Language |
 310 | [Minimum Height Trees](/Graph/P310MinimumHeightTrees) | Graph | Medium | Java
 684 | [Redundant Connection](/Graph/P684RedundantConnection) | Graph | Medium | Java
 1162 | [As Far From Land As Possible](/Graph/P1162AsFarFromLandAsPossible) | Graph | Medium | Java
+1168 | [Optimize Water Distribution in a Village](/Graph/P1168OptimizeWaterDistributionInAVillage) | Graph | Hard | Python
 1267 | [Count Servers That Communicate](/Graph/P1267CountServersThatCommunicate) | Graph | Medium | Java, Python
 1334 | [Find The City With The Smallest Number of Neighbors at a Threshold Distance](/Graph/P1334FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance) | Graph | Medium | Java
-1631 | [Path With Minimum Effort](/Graph/PathWithMinimumEffort) | Graph | Medium | Java
+1514 | [Path with Maximum Probability](/Graph/P1514PathWithMaximumProbability)| Graph | Medium | Python
+1631 | [Path With Minimum Effort](/Graph/PathWithMinimumEffort) | Graph | Medium | Java, Python
 1730 | [Shortest Path To Get Food](/Graph/P1730ShortestPathToGetFood) | Graph | Medium | Java
 
 &nbsp;

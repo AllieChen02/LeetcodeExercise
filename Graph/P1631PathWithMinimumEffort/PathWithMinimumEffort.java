@@ -1,4 +1,4 @@
-package String.P1631PathWithMinimumEffort;
+package Graph.P1631PathWithMinimumEffort;
 
 import java.util.Arrays;
 import java.util.Comparator;
