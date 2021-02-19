@@ -13,6 +13,7 @@ ID | Title | Category | Difficulty | Language |
 44 | [Wildcard Matching](/String/P44WildcardMatching) | String | Hard | Java, Python
 49 | [Group Anagrams](/String/P49GroupAnagrams) | String | Medium | Java, Python
 58 | [Length of Last Word](/String/P58LengthOfLastWord) | String | Medium | Python
+76 | [Minimum Window Substring](/String/P76MinimumWindowSubstring) | String | Hard | Python
 536 | [Construct Binary Tree from String](/String/P536ConstructBinaryTreeFromString) | String | Medium | Java
 539 | [Minimum Time Difference](/String/P539MinimumTimeDifference) | String | Medium | Java, Python
 1264 | [Largest Substring Between Two Equal Characters](/String/P1264LargestSubstringBetweenTwoEqualCharacters) | String | Medium | Java, Python
@@ -31,10 +32,12 @@ ID | Title | Category | Difficulty | Language |
 127 | [Word Ladder](/BfsAndDfs/P127WordLadder) | BFS/DFS | Medium | Java, Python
 131 | [Palindrome Partitioning](/BfsAndDfs/P131PalindromePartitioning) | DFS | Medium | Python
 323 | [Number Of Connected Components In An Undirected Graph](/BfsAndDfs/P323NumberOfConnectedComponentsInAnUndirectedGraph) | DFS | Medium | Python
-494 | [Target Sum](/BfsAndDfs/P494TargetSum) | DFS | Medium | Java
-505 | [The Maze II](/BfsAndDfs/P505TheMazeII) | BFS | Medium | Java
+494 | [Target Sum](/BfsAndDfs/P494TargetSum) | DFS | Medium | Java, Python
+505 | [The Maze III](/BfsAndDfs/P499TheMazeIII) | BFS | Hard | Java, Python
+505 | [The Maze II](/BfsAndDfs/P505TheMazeII) | BFS | Medium | Java, Python
 743 | [Network Delay Time](/BfsAndDfs/P743NetworkDelayTime) | DFS | Medium | Java, Python
 863 | [All Nodes Distance K In Binary Tree](/BfsAndDfs/P863AllNodesDistanceKInBinaryTree) | BFS | Medium | Java, Python
+934 | [Shortest Bridge](/BfsAndDfs/P934ShortestBridge) | DFS/BFS | Medium | Java, Python
 1161 |[Maximum Level Sum of a Binary Tree](/BfsAndDfs/P1161MaximumLevelSumOfABinaryTree) | BFS/DFS | Medium | Java, Python, Js
 1293 | [Shortest Path in a Grid with Obstacles Elimination](/BfsAndDfs/P1293ShortestPathInAGridWithObstaclesElimination) | BFS | Hard | Java, Python
 1376 | [Time Needed To Inform All Employees](/BfsAndDfs/P1376TimeNeededToInformAllEmployees) | BFS/DFS | Medium | Java
@@ -47,17 +50,18 @@ ID | Title | Category | Difficulty | Language |
 ## Graph
 ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
-207 | [CourseSchedule](/Graph/P207CourseSchedule) | Graph | Medium | Java
-210 | [CourseSchedule](/Graph/P210CourseScheduleII) | Graph | Medium | Java
+207 | [Course Schedule](/Graph/P207CourseSchedule) | Graph | Medium | Java,Python
+210 | [Course ScheduleII](/Graph/P210CourseScheduleII) | Graph | Medium | Java
 269 | [Alien Dictionary](/Graph/P269AlienDictionary) | Graph | Hard | Java, Python
 310 | [Minimum Height Trees](/Graph/P310MinimumHeightTrees) | Graph | Medium | Java
 684 | [Redundant Connection](/Graph/P684RedundantConnection) | Graph | Medium | Java
 1162 | [As Far From Land As Possible](/Graph/P1162AsFarFromLandAsPossible) | Graph | Medium | Java
 1168 | [Optimize Water Distribution in a Village](/Graph/P1168OptimizeWaterDistributionInAVillage) | Graph | Hard | Python
+1203 | [Sort Items by Groups Respecting Dependencies](/Graph/P1203SortItemsByGroupsRespectingDependencies) | Graph | Hard | Java, Python
 1267 | [Count Servers That Communicate](/Graph/P1267CountServersThatCommunicate) | Graph | Medium | Java, Python
 1334 | [Find The City With The Smallest Number of Neighbors at a Threshold Distance](/Graph/P1334FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance) | Graph | Medium | Java
 1514 | [Path with Maximum Probability](/Graph/P1514PathWithMaximumProbability)| Graph | Medium | Python
-1631 | [Path With Minimum Effort](/Graph/PathWithMinimumEffort) | Graph | Medium | Java, Python
+1631 | [Path With Minimum Effort](/Graph/P1631PathWithMinimumEffort) | Graph | Medium | Java, Python
 1730 | [Shortest Path To Get Food](/Graph/P1730ShortestPathToGetFood) | Graph | Medium | Java
 
 &nbsp;
@@ -128,3 +132,12 @@ ID | Title | Category | Difficulty | Language |
 -|-|-|-|-
 62 | [Unique Paths](/DP/P62UniquePaths) | DP | Medium | Java, Python
 63 | [Unique PathsII](/DP/P63UniquePathsII) | DP | Medium | Java
+
+
+
+&nbsp;
+
+## Math
+ID | Title | Category | Difficulty | Language |
+-|-|-|-|-
+62 | [Number of Days in a Month](/Math/P1118NumberOfDaysInAMonth) | Math | Easy | Python
