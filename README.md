@@ -123,7 +123,8 @@ ID | Title | Category | Difficulty | Language |
 264 | [Ugly Number II](/Heap/P264UglyNumberII) | Heap | Medium | Python
 239 | [Sliding Window Maximum](/Heap/P239SlidingWindowMaximum) | Heap | Medium | Java, Python
 1439 | [Find The Kth Smallest Sum of a Matrix With Sort](/Heap/P1439FindTheKthSmallestSumofAMatrixWithSort) | Heap | Hard | Java
-
+1673 | [Find The Most Competitive Subsequence](/Heap/P1673FindTheMostCompetitiveSubsequence) | Heap | Medium | Java
+1675 | [Minimize Deviation In Array](/Heap/P1675MinimizeDeviationInArray) | Heap | Hard | Java
 
 &nbsp;
 
